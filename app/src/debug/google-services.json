@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274411489700",
+    "firebase_url": "https://agrobharat-a6dd2.firebaseio.com",
+    "project_id": "agrobharat-a6dd2",
+    "storage_bucket": "agrobharat-a6dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274411489700:android:fc76c2dbb3178c663f5931",
+        "android_client_info": {
+          "package_name": "com.example.agrobharat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274411489700-bnir49f720qrktq80h7lnicc1jmrvk1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrobharat",
+            "certificate_hash": "f5e474011673df0312baf57d977b7e76f31ff79d"
+          }
+        },
+        {
+          "client_id": "274411489700-o6jm9819c0kio3uo696h2r0dbf9avjeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACn5fjs0JqbYDBb5GkRldJ6a4vf-Qh8Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274411489700-o6jm9819c0kio3uo696h2r0dbf9avjeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

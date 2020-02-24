@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AgroBharat</string>
+
+    <string name="login_english">Login</string>
+    <string name="login_english_username">Username</string>
+    <string name="login_english_password">Password</string>
+    <string name="menu_english_newpost">Add New Post</string>
+    <string name="addpost_english">Submit Post</string>
+    <string name="adddesc_english">Add Description</string>
+    <string name="addpost_english_success">Posted Successfully</string>
+    <string name="addpost_english_failure">Some Error Please try later</string>
+    <string name="forum_english_hint">Your response</string>
+
+
+    <string name="login_tamil">உள்நுழைய</string>
+    <string name="login_tamil_username">பயனர் பெயர்</string>
+    <string name="login_tamil_password">கடவுச்சொல்</string>
+    <string name="menu_tamil_newpost">புதிய பதிவைச் சேர்க்க</string>
+    <string name="addpost_tamil">பதவியை சமர்ப்பிக்கவும்</string>
+    <string name="adddesc_tamil">விளக்கத்தைச் சேர்க்கவும்</string>
+    <string name="menu_tamil_about">தகவல்</string>
+    <string name="addpost_tamil_success">வெற்றிகரமாக இடுகையிடப்பட்டது</string>
+    <string name="addpost_tamil_failure">சேவையக பிழை பின்னர் முயற்சிக்கவும்</string>
+    <string name="forum_tamil_hint">உங்கள் கருத்து</string>
+
+    <string name="login_hindi">लॉग इन करें</string>
+    <string name="login_hindi_username">उपयोगकर्ता नाम</string>
+    <string name="login_hindi_password">कुंजिका</string>
+    <string name="menu_hindi_newpost">नई पोस्ट जोड़ें</string>
+    <string name="addpost_hindi">पोस्ट सबमिट करें</string>
+    <string name="adddesc_hindi">विवरण जोड़ें</string>
+    <string name="menu_hindi_about">जानकारी</string>
+    <string name="addpost_hindi_success">सफलतापूर्वक पोस्ट किया गया</string>
+    <string name="addpost_hindi_failure">कुछ त्रुटि बाद में प्रयास करें</string>
+    <string name="forum_hindi_hint">तुम्हारा जवाब</string>
+
+    <string name="login_telugu">ప్రవేశించండి</string>
+    <string name="login_telugu_username">వినియోగదారు పేరు</string>సాంకేతిక పదము
+    <string name="login_telugu_password">పాస్వర్డ్</string>
+
+</resources>

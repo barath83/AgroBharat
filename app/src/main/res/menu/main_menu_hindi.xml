@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title = "नई पोस्ट जोड़े" android:id="@+id/newpost"></item>
+    <item android:title = "जानकारी" android:id="@+id/rice"></item>
+    <item android:title = "कपास" android:id="@+id/cotton"></item>
+
+
+</menu>

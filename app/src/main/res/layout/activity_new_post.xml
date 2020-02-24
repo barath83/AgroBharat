@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewPost">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        />
+
+    <ImageView
+        android:id="@+id/addpost_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/toolbar"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/addimage"
+        android:adjustViewBounds="true"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addpost_textview"
+        android:layout_below="@+id/addpost_image"
+        android:fontFamily="@font/raleway"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"/>
+
+    <EditText
+        android:id="@+id/addpost_desc"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/addpost_textview"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/edit_desc"
+        android:paddingLeft="10dp"
+        android:maxLength="500" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addpost_submit"
+        android:layout_below="@id/addpost_desc"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#E26924"/>
+
+</RelativeLayout>
